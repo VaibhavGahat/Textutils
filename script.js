@@ -82,11 +82,4 @@ search.addEventListener("input", function(){
 
     })
 })
-let chicken=prompt("which chicken you like:");
-    let fired=prompt("what kind of chicken you want ");
-    function chic(chick,fir){
-    	let the = fir+" "+chick+" chicken is ready";
-    	return the;
-    }
-    let the_one=chic(chicken,fired);
-    console.log(the_one);
+
